@@ -1,13 +1,9 @@
 {
-  "latestVersion": "2.5.1",
-  "latestVersionCode": "32",
-  "url": "https://github.com/SubhamTyagi/loco-answers/releases",
+  "latestVersion": "2.5.3",
+  "latestVersionCode": "33",
+  "url": "https://github.com/rollychop/loco-answers/releases",
   "releaseNotes": [
-       "- Blank screen bug fix",
-       "- Tesseract all types data(fast,best,standard) for accuracy and performance",
-       "- Grayscale image control setting",
-       "- Enlarge Image Setting",
-       "- Android 10 crash fix",
-       "- other bug fixes and performance improvements"	
+       "- Notification to disable overlay and ocr",
+       "- new answer algorithum"
        ]
 }
