@@ -4,9 +4,10 @@
   "url": "https://firebasestorage.googleapis.com/v0/b/trivia-hack-1c678.appspot.com/o/Builds%2FTrivia-Hack-release-2.6.1-Instant-20200425195434.apk?alt=media&token=546d0c1b-7ca8-48ba-a622-55a37f429a56",
   "releaseNotes": [
     "- Four option Error solved",
-    "- Blank screen bug fix",
+    "- Crash Reporter enabled",
     "- Optimised for 100 MB Game",
     "- Added features to change fallback search engine",
     "- Added feature to search question and option at once in fallback"
        ]
 }
+
