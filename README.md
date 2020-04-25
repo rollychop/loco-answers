@@ -3,7 +3,7 @@
 
 # Trivia hack  <a target="_blank" href="https://paypal.me/shubhamtyagi1" title="Donate using PayPal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" /></a>
 
-The original package was developed by Shubham Tyagi and can be downloaded at https://github.com/Shubhamtyagi This is a forked package that I will continue maintaining in the foreseeable future. I will try to maintain a strongly modularized design so when something is broken anyone can quickly repair it. All contributions are very welcome.
+The original package was developed by Shubham Tyagi and can be downloaded at https://github.com/SubhamTyagi This is a forked package that I will continue maintaining in the foreseeable future. I will try to maintain a strongly modularized design so when something is broken anyone can quickly repair it. All contributions are very welcome.
 
 * A free, 100 % open source, ads free trivia helper app that respect user sentiments.
 *  Previously Known as LoKo HacK
